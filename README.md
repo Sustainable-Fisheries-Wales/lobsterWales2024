@@ -42,7 +42,7 @@ R: This folder contains R files for data processing and model-fitting
 
 `cefas.lt.comp_dataprocessing_wales_lobster.R`: a script for preprocessing the Cefas port sampling length composition data
 
-`compute_cpue_wales.R`: a script for computing catch rate from the observer sampling data
+`compute_cpue_wales_lobster.R`: a script for computing catch rate from the observer sampling data
 
 `compute_observer.size.comp_wales_lobster.R`: a script for computing proportional length frequency distributions from the observer sampling data
 
